@@ -1,0 +1,6 @@
+language: python
+python:
+ - 3.6.0
+cache: pip
+script:
+ - python name.py 
